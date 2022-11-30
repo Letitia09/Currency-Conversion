@@ -22,10 +22,10 @@ The function accepts two positive integers 'code' and 'amount' as its argument. 
 <br>
 <pre>
 <b>Input1:</b>    <b>Output1:</b>
-code:2            48000
+code:2    48000
 amount:500
 <br>
 <b>Input2:</b>    <b>Output2:</b>
-code:5            2574
+code:5     2574
 amount:234
 </pre>
